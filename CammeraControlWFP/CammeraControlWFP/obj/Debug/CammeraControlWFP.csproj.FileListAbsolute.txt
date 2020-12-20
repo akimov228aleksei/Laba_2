@@ -1,0 +1,30 @@
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe.config
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.pdb
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Form1.resources
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Properties.Resources.resources
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.GenerateResource.cache
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.CoreCompileInputs.cache
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.exe
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.pdb
+C:\Users\s.piatrenka\Desktop\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csprojAssemblyReference.cache
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe.config
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.pdb
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Form1.resources
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Properties.Resources.resources
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.GenerateResource.cache
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.CoreCompileInputs.cache
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.exe
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.pdb
+C:\Users\pawer\OneDrive\Рабочий стол\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csprojAssemblyReference.cache
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe.config
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.exe
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\bin\Debug\CammeraControlWFP.pdb
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Form1.resources
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.Properties.Resources.resources
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.GenerateResource.cache
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csproj.CoreCompileInputs.cache
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.exe
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.pdb
+E:\GitHub\CammeraControlWFP\CammeraControlWFP\obj\Debug\CammeraControlWFP.csprojAssemblyReference.cache
